@@ -1,5 +1,5 @@
 import pytest
-from cicd_template.calculator import Calculator
+from calculator import Calculator
 
 
 @pytest.fixture
